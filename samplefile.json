@@ -1,0 +1,39 @@
+[
+  [
+    {
+      "Code": "MAC 2311"
+    },
+    {
+      "Code": "EEL 3705L"
+    },
+    {
+      "Code": "EEL 3705"
+    },
+    {
+      "Code": "EGN 1004L"
+    },
+    {
+      "Code": "CHM 1045L"
+    },
+    {
+      "Code": "CHM 1045"
+    }
+  ],
+  [
+    {
+      "Code": "PHY 2048L"
+    },
+    {
+      "Code": "PHY 2048C"
+    },
+    {
+      "Code": "MAC 2312"
+    },
+    {
+      "Code": "COP 3353"
+    },
+    {
+      "Code": "ENC 1101"
+    }
+  ]
+]
